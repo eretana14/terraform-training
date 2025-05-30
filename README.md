@@ -1,2 +1,2 @@
 # terraform-training
-Terraform Training Akamai 
+Terraform Training Akamai - part of the PS development 
